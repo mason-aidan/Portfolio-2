@@ -1,2 +1,2 @@
 # Portfolio-2
-I am trying to upload photos and videos here to put into a google collab to do some image processing.
+Here I am uploading videos so I can use them in google collab in order to find the coefficient of restituion of a table tennis ball.
